@@ -19,7 +19,7 @@ where 50 is the minimum Orbs (in-game currency) needed to play another player, a
 
 4. You will be taken into a screen like so:
 
-<img src='ets-2.png' width='250px'>
+<img src='ets-2.png' width='500px'>
 
 4.a. Read the [Handbook link](https://enter-the-sphere.com/assets/EntertheSphereHandbook.pdf)
 
