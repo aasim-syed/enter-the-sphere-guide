@@ -24,3 +24,6 @@ where 50 is the minimum Orbs (in-game currency) needed to play another player, a
 4.a. Read the [Handbook link](https://enter-the-sphere.com/assets/EntertheSphereHandbook.pdf)
 
 5. Play some cards, and use the attack button to try and defeat the other player.
+
+
+..
